@@ -1,0 +1,4 @@
+/*
+Functions for Request
+-> Webscraping
+ */
